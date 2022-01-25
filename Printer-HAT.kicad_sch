@@ -4704,7 +4704,7 @@
     (uuid dca84cac-ad35-4240-bdbf-f7734aa71de3)
     (property "Reference" "J1" (id 0) (at 191.77 125.5735 0))
     (property "Value" "Screw_Terminal" (id 1) (at 191.77 128.3486 0))
-    (property "Footprint" "TerminalBlock:TerminalBlock_bornier-6_P5.08mm" (id 2) (at 191.77 138.43 0)
+    (property "Footprint" "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_Type011_RT05506HBWC_1x06_P5.00mm_Horizontal" (id 2) (at 191.77 138.43 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 191.77 138.43 0)
@@ -5024,7 +5024,7 @@
       (reference "D8") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_MiniMELF")
     )
     (path "/dca84cac-ad35-4240-bdbf-f7734aa71de3"
-      (reference "J1") (unit 1) (value "Screw_Terminal") (footprint "TerminalBlock:TerminalBlock_bornier-6_P5.08mm")
+      (reference "J1") (unit 1) (value "Screw_Terminal") (footprint "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_Type011_RT05506HBWC_1x06_P5.00mm_Horizontal")
     )
     (path "/e2bc1001-dc48-409a-a60c-28e01d5d4087"
       (reference "J4") (unit 1) (value "Conn_01x03_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
