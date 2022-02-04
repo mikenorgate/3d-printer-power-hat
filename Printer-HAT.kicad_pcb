@@ -2381,7 +2381,7 @@
   (gr_text "3D Printer Power" (at 228.956 133.236) (layer "B.SilkS") (tstamp 141632a4-8641-4dd3-986c-0ce8d58c30c7)
     (effects (font (size 2 2) (thickness 0.3)) (justify mirror))
   )
-  (gr_text "https://github.com/mikenorgate/3d-printer-power-hat" (at 225.4 137.3) (layer "B.SilkS") (tstamp 4d0086af-eca4-4892-82f1-1e3d529520d0)
+  (gr_text "https://github.com/mikenorgate/3d-printer-power-hat" (at 225.5524 137.4016) (layer "B.SilkS") (tstamp 4d0086af-eca4-4892-82f1-1e3d529520d0)
     (effects (font (size 0.75 0.75) (thickness 0.1)) (justify mirror))
   )
   (gr_text "JLCJLCJLCJLC" (at 229.972 135.776) (layer "B.SilkS") (tstamp ae129c54-d7ea-4bfb-a101-02d223873676)
