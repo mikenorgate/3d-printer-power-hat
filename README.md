@@ -1,4 +1,7 @@
-![Header Image]()
+<p align="center">
+  <img src="./pcb/renders/overview.png">
+</p>
+
 
 # 3D Printer HAT
 
