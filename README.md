@@ -79,8 +79,17 @@ TODO: Probably using PSU control plugin https://github.com/kantlivelong/OctoPrin
 
 ## Technical Specs
 
+- Input Voltage: 4.5 V − 40 V
+- Output Power: 5V DC / 3A
+- Printer Output Max Current: 30A
+- Aux Output Max Current: 10A
+
 ## Additional Content
 
 ### Enclosures
 
+- [Ender 3](enclosures/ender3/README.md)
+
 ### PCB
+
+More information about the PCB and files required for manufacturing can be found [here](pcb/README.md)
