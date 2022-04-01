@@ -88,8 +88,8 @@ TODO: Probably using PSU control plugin https://github.com/kantlivelong/OctoPrin
 
 ### Enclosures
 
-- [Ender 3](enclosures/ender3/README.md)
+- [Ender 3](enclosures/ender3)
 
 ### PCB
 
-More information about the PCB and files required for manufacturing can be found [here](pcb/README.md)
+More information about the PCB and files required for manufacturing can be found [here](pcb)
